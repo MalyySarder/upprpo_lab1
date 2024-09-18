@@ -1,0 +1,6 @@
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/build/CMakeFiles/BigArrayLib.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/build/CMakeFiles/BigArrayProject.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/build/CMakeFiles/runTests.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/build/CMakeFiles/ZERO_CHECK.dir

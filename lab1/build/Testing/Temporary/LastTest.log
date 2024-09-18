@@ -1,0 +1,19 @@
+Start testing: Sep 18 11:31 RTZ 2 (зима)
+----------------------------------------------------------
+Test not available without configuration.  (Missing "-C <config>"?)
+1/1 Testing: runTests
+1/1 Test: runTests
+Command: "NOT_AVAILABLE"
+Directory: C:/Users/RedFury/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/UPPRPO/lab1/build
+"runTests" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"runTests" end time: Sep 18 11:31 RTZ 2 (зима)
+"runTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 18 11:31 RTZ 2 (зима)

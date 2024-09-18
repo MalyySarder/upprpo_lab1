@@ -1,0 +1,6 @@
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/cmake-build-debug/CMakeFiles/BigArrayLib.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/cmake-build-debug/CMakeFiles/BigArrayProject.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/cmake-build-debug/CMakeFiles/runTests.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/RedFury/OneDrive/Рабочий стол/UPPRPO/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
